@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm a grade 5 student with a passion for maths and technology. Here are some of my interests and areas I'm exploring:
+My name is **Aanya Gupta**. I'm a grade 5 student with a passion for maths and technology. Here are some of my interests and areas I'm exploring:
 
 - 🧮 **Maths** — My favourite subject!
 - 🐍 **Python Coding** — Learning to code and build projects with Python.
